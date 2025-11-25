@@ -4,7 +4,7 @@ const followBtn = document.getElementById('followBtn');
 // Ajouter l'événement de clic
 followBtn.addEventListener('click', function() {
     // Rediriger vers le lien Telegram
-    window.location.href = 'https://t.me/One_punch_Man_VF_S30';
+    window.location.href = 'https://t.me/Wakanimes';
 });
 
 // Optionnel : Ajouter un effet de feedback visuel
